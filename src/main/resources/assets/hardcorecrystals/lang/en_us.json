@@ -1,0 +1,12 @@
+{
+  "item.hardcorecrystals.base_crystal": "Base Crystal",
+  "item.hardcorecrystals.fire_crystal": "Fire Crystal",
+  "item.hardcorecrystals.astral_crystal": "Astral Crystal",
+  "item.hardcorecrystals.life_crystal": "Life Crystal",
+  "item.hardcorecrystals.puff_crystal": "Puff Crystal",
+  "item.hardcorecrystals.speed_crystal": "Speed Crystal",
+  "item.hardcorecrystals.strength_crystal": "Strength Crystal",
+  "item.hardcorecrystals.wealth_crystal": "Wealth Crystal",
+
+  "itemgroup.crystals": "Hardcore Crystals"
+}
